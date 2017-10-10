@@ -1,0 +1,448 @@
+body{
+
+	background-image: url("nkarner/filmer1_background_image.jpg");
+	background-size: cover;
+	
+}
+
+/*<!-- _________________________SITE________________________ -->*/
+.site{
+	width: 1300px;
+	margin: auto;
+}
+
+/*__________________________HEADER________________________*/
+.header{
+	padding-right:  10px;
+	background-image: url("nkarner/header-background_imge .jpg") ;
+	border-radius: 50px;
+	background-size: 1300px 200px ;
+	height: 200px;
+}
+.header img{
+	border-radius: 50px;
+	float: left;
+	width: 400px;
+	height: 200px;
+}
+.header h1{
+	color: white;
+	margin-left: 87px;
+	display: inline-block;
+	text-align: right;
+}
+
+.html_filmer1 .header h2{
+	color: white;
+	margin: 0;
+	margin-left: 600px;
+	font-size: 60px; 
+}
+.header p{
+	padding-right: 20px;
+	margin: 0px 0px 0px 0;
+	text-align: right;
+	color: white;
+}
+.html_filmer1 .header p{
+	padding-right: 20px;
+	margin: -50px 0px 15px 0;
+	text-align: right;
+	color: white;
+}
+
+/*____________________________MENU___________________________*/
+.menu{
+
+	border-radius: 10px;
+	background-image: url("nkarner/aaa.png");
+	height: 60px;
+}
+.menu ul{
+
+	padding-top: 10px;
+	margin: 0px;
+}
+.menu li{
+	padding: 3px;
+	margin: 5px;
+	color: yellow;
+	margin-right: 50px;
+	border-radius: 15px;
+	background-image: url("nkarner/li_background_image.jpg");
+	background-size: 50px 50px;
+	display: inline-block;
+}
+
+.dropbtn {
+	border-radius: 15px;
+	background-image: url("nkarner/li_background_image.jpg");
+    background-size: 50px 50px;
+    color: yellow;
+ 	border: none;
+
+}
+
+.dropdown {
+
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+	background-color: white;
+    width: 160px;
+
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+
+
+/*_____________________________FOOTER_____________________*/
+.footer{
+	text-align: center;
+	background-image: url("nkarner/footer_background_image.jpg");
+	background-size: 1300px 200px;
+
+}
+.footer p{
+	margin: 0px;
+	color: white;
+}
+/*_________________________CONTAINER______________________*/
+.container{
+	background-color: white;
+}
+/*________________________Home.html______________________*/
+.container{
+	padding: 20px 10px;
+}
+.slider div{
+	float: left;
+}
+
+.container .dzax{
+	width: 50%;
+	
+}
+.mec{
+	margin-left: 5%;
+	height: 70%;
+	width: 90%;
+}
+.poqr{
+	height: 230px;
+	width: 210px;
+}
+.h1_class{
+	clear: both;
+}
+
+
+/*_________________________HTML.html______________________*/
+
+.container_HTML{
+		background-color: white;
+	padding: 20px 10px;
+
+}
+
+
+.html_html_1{
+	margin-top: 20px;
+	margin-left: 15%;
+	width: 500px;
+	height: 200px;
+}
+.html_html_5{
+	margin-top: 20px;
+	margin-left: 15%; 
+	width: 300px;
+	height: 200px;
+}
+.container_HTML .text p{
+	font-family: 'Cabin Sketch', cursive;
+}
+.container_HTML .text  p a{
+	text-decoration: none;
+} 
+.container_HTML a:hover{
+	color:black;
+}
+.container_HTML a{
+	color: green;
+}
+.container_HTML .iframe{
+margin-top: 10px;
+height: 50%;
+}
+
+.container_HTML .iframe iframe{
+	width: 45%;
+	height: 500px;
+}
+.iframe_one{
+	margin-right: 40px;
+	margin-left:  40px;
+}
+/*________________________CSS.html________________*/
+
+.container_CSS{
+	background-color: white;
+	padding: 20px 10px;
+}
+.container_CSS .CSS_HTML_1{
+	width: 200px;
+	height: 200px;
+	margin-left: 40%;
+}
+.container_CSS .text p{
+	font-family: 'Cabin Sketch', cursive;
+}
+
+.container_CSS .iframe{
+margin-top: 10px;
+height: 50%;
+}
+
+.container_CSS .iframe iframe{
+	width: 45%;
+	height: 500px;
+}
+.iframe_one{
+	margin-right: 40px;
+	margin-left:  40px;
+}
+
+/*________________________ABOUT.html________________*/
+
+.container_about{
+	background-color: white;
+	padding: 20px 10px;
+}
+.container_about h1{
+	text-align: center;
+}
+.container_about img{
+	width: 550px;
+	height: 450px;
+float: left;
+}
+.container_about .kens_table,th,td {
+text-align: left;
+font-size: 22px;
+}
+.container_about td {
+text-indent: 70px;
+}
+.container_about .kens_table{
+	margin-left: 53%;
+	margin-top: 11%;
+}
+.container_about p{
+	font-size: 20px;
+	clear: both;
+	text-align: justify;
+	margin: 130px 10px 20px 10px;
+}
+.container_about a{
+text-decoration: none;
+color: #555555;
+}
+.container_about a:hover{
+	color: #330000;
+}
+.container_about div{
+	float: left;
+	box-sizing: border-box;
+}
+.about_dzax{
+
+	width: 50%;
+}
+.about_dzax th{
+	text-indent: 90px;
+}
+.about_aj{
+	height: 300px;
+	width: 50%;
+}
+.about_aj p{
+	margin: 5px 0;
+	text-align: center;
+}
+
+/*________________CONTACT_________________*/
+.container_contact{
+	background-color: white;
+	padding: 20px 10px;
+}
+.container_contact div{
+	float: left;
+	box-sizing: border-box;
+	
+
+}
+.container_contact .contact_dzax{
+	width: 50%;
+}
+.contact_dzax h1{
+text-align: center;
+}
+
+.contact_dzax table{
+margin-left: 50px;
+}
+.contact_dzax td{
+text-indent: 100px;
+}
+.contact_dzax p{
+font-size: 50px;
+display: inline-block;
+margin: 5px;
+margin-left: 150px;
+}
+.container_contact .contact_dzax a{
+text-decoration: none;
+color: #555555;
+}
+.contact_dzax a:hover{
+	color:#330000;
+}
+.container_contact .contact_aj{
+	width: 50%;
+}
+.container_contact iframe{
+	width: 500px;
+	height: 500px;
+	padding: 20px;
+}
+.contact_visibility{
+	margin: 0;
+	visibility: hidden;
+}
+
+/*______________________FILMER1_____________________*/
+
+.html_filmer1 .filmer1, .html_filmer1 .footer{
+	width: 1000px;
+	margin: auto;
+
+}
+.html_filmer1 .header,.menu{
+	width: 1300px;
+	margin: auto;
+}
+ body{
+background-image: url("nkarner/filmer1_background_image.jpg");
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+.filmer1_top_filmer{      /*filmer1_top_filmer*/
+	background-image: url("nkarner/filme1_top_background_image.jpg");
+	height: 200px;
+	margin-bottom: 30px;
+}
+.filmer1_mnacac{
+/*	border: 10px solid	 red;
+*/
+}
+.filmer1_mnacac b{
+	color: #cecece;
+}
+.filme1_top_image li{
+	display: inline-block;
+	margin: 0;
+	margin-right: 10px;
+}
+.filme1_top_image li img{
+	margin-top: 10px;
+	width: 120px;
+}
+.filme1_top_image {
+	margin-top:0px; 
+	margin-left: -10px;
+}
+
+.rosamaxa1_film{  
+padding: 20px;         /*ROSAMAXA*/
+	background-image: url("nkarner/filme1_top_background_image.jpg");
+	background-size: cover;
+}
+.rosamaxa1_film h1{
+	margin-top: 0px;
+	color: white;
+}
+.span1class{
+	margin-bottom: 25px;
+}
+.rosamaxa1_film span{
+	text-align: justify;
+	display: block;
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	font-size: 18px;
+}
+
+.dzax_submit_span{
+	text-decoration: none;
+    color: rgb(192, 192, 192);
+    padding: 2px 7px 3px 7px;
+    background: rgb(36, 36, 36);
+    border: 1px solid #404040;
+    cursor: pointer;
+    outline: solid 1px #111;
+}
+.rosamaxa1_film div{
+	box-sizing: border-box;
+	float: left;
+}
+.rosamaxa1_film .dzax{
+	width: 30%;
+	margin-right: 33px;
+
+}
+.rosamaxa1_film .dzax .dzax_nkar img{
+	width: 268px;
+	height: 359px;
+}
+
+
+.rosamaxa1_film .aj{
+	width: 66%;
+}
+ a{
+	text-decoration: none;
+}
+.p1_1{
+	display: inline-block;
+	margin-left: 45%;
+	color: white;
+	background-color: green;
+text-decoration: underline;
+}
+
+.p1_2{
+	display: inline-block;
+	margin-left: 3px;
+	color: white;
+	background-color: green;
+	text-decoration: underline;
+}
+
