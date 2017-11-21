@@ -58,6 +58,9 @@ body{
 	background-image: url("nkarner/aaa.png");
 	height: 60px;
 }
+.menu ul .dropdown,.dropbtn,.dropdown-content a{
+	text-transform: capitalize;
+}
 .menu ul{
 
 	padding-top: 10px;
